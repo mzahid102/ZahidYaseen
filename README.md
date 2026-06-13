@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ZahidYaseen
-- 🌱 I’m currently learning C++
-- 📫 How to reach me? Insta: m.zahid102, Discord: zahid102
+- 👋 Hi, I’m Zshid
